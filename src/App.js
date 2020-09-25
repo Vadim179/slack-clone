@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// This is a comment
 function App() {
   return (
     <div className="App">
