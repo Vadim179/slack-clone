@@ -1,7 +1,7 @@
 import React from "react"
 
 function Sidebar() {
-  return <div></div>
+  return <div><p>dima</p></div>
 }
 
 export default Sidebar
