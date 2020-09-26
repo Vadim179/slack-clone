@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="app">
       <p>My name is Dima</p>
+      <h1>Dima</h1>
     </div>
   )
 }
