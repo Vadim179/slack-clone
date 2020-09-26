@@ -10,7 +10,7 @@ import Sidebar from "./layout/Sidebar/Sidebar"
 function App() {
   return (
     <div className="app">
-      <Sidebar />
+      <p>My name is Dima</p>
     </div>
   )
 }
